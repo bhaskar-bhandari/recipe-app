@@ -1,8 +1,22 @@
-# React + Vite
+# 🍽️ Food Recipe Finder App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web application that allows users to search for food recipes, view recipe details, and manage a list of favorite recipes. It uses the [Forkify API](https://forkify-api.herokuapp.com/) to fetch recipe data.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 🔍 Search for recipes by keyword
+- 📃 View detailed ingredients and publisher info
+- ❤️ Add/remove recipes from your favorites list
+- 🧠 Uses React Context API for state management
+- ⚡ Clean, responsive Tailwind CSS UI
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, React Router DOM
+- **State Management:** React Context API
+- **Styling:** Tailwind CSS
+- **Data Source:** Forkify API

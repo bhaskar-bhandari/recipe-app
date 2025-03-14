@@ -20,3 +20,15 @@ A React-based web application that allows users to search for food recipes, view
 - **State Management:** React Context API
 - **Styling:** Tailwind CSS
 - **Data Source:** Forkify API
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](![Screenshot 2025-03-14 164231](https://github.com/user-attachments/assets/204b2aaa-1f2c-46bc-b734-e85518882b99))
+
+
+### 📋 Recipe Details Page
+![Recipe Details](![Screenshot 2025-03-14 164255](https://github.com/user-attachments/assets/800898ab-fbb9-4a7c-b7c8-3e6aa03fe3f1))
+
